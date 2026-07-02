@@ -1,6 +1,3 @@
-# Candidate-Matcher
-Candidate ranking system built with Flask, Sentence Transformers, and semantic similarity.
-
 # Candidate Matcher
 
 A machine learning–based candidate ranking system that matches resumes with a job description using sentence embeddings and cosine similarity.
@@ -46,10 +43,10 @@ Candidate-Matcher/
 │
 └── backend/
     ├── app.py
-    ├── generate_embedding.py
-    └── requirements.txt
-```
+   ├── generate_embedding.py
+   └── requirements.txt
 
+        
 ## Installation
 
 1. Clone the repository
